@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:7e4c00a05b90e5fe439103e03f0ff79f8e0d9d6714185cff9b0a3a08f038b8c3","size":1621,"annotations":{"io.containerd.image.name":"docker.io/library/django-racing-app:latest","org.opencontainers.image.ref.name":"latest"}}]}
